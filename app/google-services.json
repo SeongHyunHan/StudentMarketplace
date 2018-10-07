@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "494730817643",
+    "firebase_url": "https://marketplace-project-24461.firebaseio.com",
+    "project_id": "marketplace-project-24461",
+    "storage_bucket": "marketplace-project-24461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494730817643:android:891604865e23ae5a",
+        "android_client_info": {
+          "package_name": "com.two.enough"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494730817643-64h4pdi7n87oej1bkocjjmcugko5ki7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2K0s_kTbJLrz9cPg9PxRrUco6F1auWs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
